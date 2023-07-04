@@ -1,3 +1,4 @@
+// Time Complexity = O(n/2)
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -8,6 +9,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
@@ -16,6 +18,8 @@ public:
             return head;
         
         // Assign 2 pointers: fast & slow
+        // Note: The below code returns the second value in case of even nodes. (As given in Ques)
+        // To return the first mid-value in case of even nodes. Either (i)Store the first mid-node [better] or (ii)Iterate till the 2nd last node only.
         ListNode * slow = head;
         ListNode * fast = head;
         while (fast != NULL && fast -> next != NULL) {
