@@ -1,4 +1,4 @@
-// Time Complexity: O(N^2)
+// Time Complexity: O(N) + O(N/2)
 // Space Complexity: O(1)
 
 /**
@@ -11,6 +11,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
