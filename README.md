@@ -10,6 +10,7 @@ Happy LeetCoding!
 | [0039-combination-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
@@ -17,6 +18,7 @@ Happy LeetCoding!
 | [0039-combination-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## String
