@@ -13,6 +13,7 @@ Happy LeetCoding!
 | [0046-permutations](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0090-subsets-ii) |
+| [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,4 +44,8 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
