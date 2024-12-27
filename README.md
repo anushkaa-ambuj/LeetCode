@@ -7,6 +7,7 @@ Happy LeetCoding!
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -52,5 +53,6 @@ Happy LeetCoding!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
