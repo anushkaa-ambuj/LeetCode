@@ -7,6 +7,7 @@ Happy LeetCoding!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0039-combination-sum) |
@@ -43,6 +44,7 @@ Happy LeetCoding!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
