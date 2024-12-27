@@ -29,6 +29,7 @@ Happy LeetCoding!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ Happy LeetCoding!
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
