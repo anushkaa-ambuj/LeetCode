@@ -8,6 +8,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0039-combination-sum) |
@@ -53,6 +54,7 @@ Happy LeetCoding!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
@@ -62,4 +64,8 @@ Happy LeetCoding!
 | [0033-search-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
