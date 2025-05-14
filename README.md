@@ -34,6 +34,7 @@ Happy LeetCoding!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
@@ -77,4 +78,8 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
