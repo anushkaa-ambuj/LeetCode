@@ -37,6 +37,7 @@ Happy LeetCoding!
 | [0014-longest-common-prefix](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0412-fizz-buzz](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +83,12 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
