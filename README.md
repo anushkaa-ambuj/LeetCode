@@ -97,4 +97,8 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
