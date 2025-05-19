@@ -36,6 +36,7 @@ Happy LeetCoding!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0412-fizz-buzz) |
@@ -54,6 +55,7 @@ Happy LeetCoding!
 | [0001-two-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
@@ -99,6 +101,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Database
 |  |
