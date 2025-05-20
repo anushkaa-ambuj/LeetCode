@@ -1,24 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        string t;
-        for (char c:s){
-            if ((c>='a' && c<='z') || (c>='0' && c<='9')){
-                t+=c;
-            }
-            else if ((c>='A' && c<='Z')){
-                t+=(c+32);
-            }
-        }
-        // cout<<t;
-        
-        int i=0, j=t.size()-1;
-        while (i<=j){
-            if (t[i] != t[j]){
+        int left = 0, right = s.length() - 1;
+    
+        while (left < right) {
+            // Skip non-alphanumeric characters
+            while (left < right && !isalnum(s[left])) left++;
+            while (left < right && !isalnum(s[right])) right--;
+
+            // Compare characters (case-insensitive)
+            if (tolower(s[left]) != tolower(s[right])) {
                 return false;
             }
-            i++; j--;
+            
+            left++;
+            right--;
         }
+        
         return true;
     }
 };
