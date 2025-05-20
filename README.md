@@ -36,6 +36,7 @@ Happy LeetCoding!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -110,4 +111,8 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
