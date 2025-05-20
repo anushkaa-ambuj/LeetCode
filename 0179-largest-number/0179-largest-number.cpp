@@ -15,7 +15,7 @@ public:
         // Sort using custom comparator
         sort(strNums.begin(), strNums.end(), compare);
 
-        // If the largest number is "0", return "0"
+        // If the largest number is "0", return "0" eg. nums=[0,0]
         if (strNums[0] == "0") return "0";
 
         // Concatenate the result
