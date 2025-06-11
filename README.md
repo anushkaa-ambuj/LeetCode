@@ -36,6 +36,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -48,6 +49,7 @@ Happy LeetCoding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
@@ -69,6 +71,7 @@ Happy LeetCoding!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0075-sort-colors) |
