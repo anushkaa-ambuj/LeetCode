@@ -6,7 +6,7 @@ public:
             left--;
             right++;
         }
-        return right - left - 1; // length of palindrome
+        return right - left - 1; // length of palindrome, since the pointers of palindrome are 'left+1' & 'right-1'
     }
 
     string longestPalindrome(const string &s) {
