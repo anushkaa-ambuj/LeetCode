@@ -46,11 +46,13 @@ Happy LeetCoding!
 | [0242-valid-anagram](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0647-palindromic-substrings](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Happy LeetCoding!
 | [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
