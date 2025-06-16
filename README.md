@@ -131,6 +131,7 @@ Happy LeetCoding!
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
@@ -147,6 +148,7 @@ Happy LeetCoding!
 | [0110-balanced-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Happy LeetCoding!
 | [0110-balanced-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,6 +164,7 @@ Happy LeetCoding!
 | [0110-balanced-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
