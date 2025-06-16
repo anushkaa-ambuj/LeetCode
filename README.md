@@ -130,6 +130,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -144,6 +145,7 @@ Happy LeetCoding!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -152,6 +154,7 @@ Happy LeetCoding!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -160,6 +163,7 @@ Happy LeetCoding!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
