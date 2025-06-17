@@ -21,6 +21,7 @@ Happy LeetCoding!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
@@ -74,6 +75,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
+| [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Happy LeetCoding!
 | [0144-binary-tree-preorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -205,6 +208,7 @@ Happy LeetCoding!
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
@@ -215,4 +219,8 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
