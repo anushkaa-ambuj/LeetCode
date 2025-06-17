@@ -159,6 +159,7 @@ Happy LeetCoding!
 | [0226-invert-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Happy LeetCoding!
 | [0226-invert-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Happy LeetCoding!
 | [0226-invert-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -199,6 +202,7 @@ Happy LeetCoding!
 | [0104-maximum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
