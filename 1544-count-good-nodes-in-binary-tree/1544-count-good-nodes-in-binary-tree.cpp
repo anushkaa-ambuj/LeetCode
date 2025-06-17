@@ -12,21 +12,22 @@
 class Solution {
 public:
     int goodNodes(TreeNode* root) {
-        dfs(root, INT_MIN);
-        return countGoodNodes;
+        return dfs(root, INT_MIN);
     }
 
 private:
-    int countGoodNodes = 0;
-    void dfs(TreeNode* root, int maxSoFar){
-        if(root==NULL) return;
+    int dfs(TreeNode* root, int maxSoFar){
+        if(root==NULL) return 0;
 
+        int countGoodNodes = 0;
         if(root->val >= maxSoFar){
-            countGoodNodes++;
+            countGoodNodes=1;
             maxSoFar = root->val;
         }
 
-        dfs(root->left, maxSoFar);
-        dfs(root->right, maxSoFar);
+        countGoodNodes += dfs(root->left, maxSoFar);
+        countGoodNodes += dfs(root->right, maxSoFar);
+
+        return countGoodNodes;
     }
 };
