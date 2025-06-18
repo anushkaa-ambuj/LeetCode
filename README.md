@@ -92,6 +92,7 @@ Happy LeetCoding!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0768-partition-labels) |
 ## Binary Search
@@ -108,6 +109,7 @@ Happy LeetCoding!
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
@@ -248,6 +250,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1127-last-stone-weight) |
@@ -259,6 +262,7 @@ Happy LeetCoding!
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -267,5 +271,6 @@ Happy LeetCoding!
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
