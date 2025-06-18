@@ -50,6 +50,7 @@ Happy LeetCoding!
 | [0412-fizz-buzz](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0768-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Happy LeetCoding!
 | [0076-minimum-window-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0768-partition-labels) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Happy LeetCoding!
 | [0234-palindrome-linked-list](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Happy LeetCoding!
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
+| [0768-partition-labels](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0768-partition-labels) |
 ## Trie
 |  |
 | ------- |
