@@ -23,6 +23,7 @@ Happy LeetCoding!
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
+| [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Happy LeetCoding!
 | [0075-sort-colors](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0242-valid-anagram) |
+| [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Happy LeetCoding!
 | ------- |
 | [0009-palindrome-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0412-fizz-buzz) |
+| [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -227,4 +230,20 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
