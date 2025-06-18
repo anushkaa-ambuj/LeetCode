@@ -24,6 +24,7 @@ Happy LeetCoding!
 | [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1127-last-stone-weight) |
 ## Backtracking
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Happy LeetCoding!
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
