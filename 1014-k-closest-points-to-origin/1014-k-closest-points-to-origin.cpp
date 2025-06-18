@@ -1,20 +1,19 @@
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        priority_queue<pair<int, vector<int>>> pq;
+        map<int, vector<vector<int>>> mp;
 
-        for(auto point: points){
+        for(auto& point: points){
             int dist = point[0]*point[0] + point[1]*point[1];
-            pq.push({dist, point});
-            if (pq.size() > k){
-                pq.pop();
-            }
+            mp[dist].push_back(point);
         }
 
         vector<vector<int>> ans;
-        while(!pq.empty()){
-            ans.push_back(pq.top().second);
-            pq.pop();
+        for(auto& [dist, pointList]:mp){
+            for(auto& point: pointList){
+                ans.push_back(point);
+                if(ans.size() == k) return ans;
+            }
         }
         return ans;
     }
