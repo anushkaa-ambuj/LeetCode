@@ -22,12 +22,11 @@ public:
             }
         }
 
-        vector<string> ans;
-        while(!pq.empty()){
-            ans.push_back(pq.top().second);
+        vector<string> ans(k);
+        for (int i = k - 1; i >= 0; --i) {
+            ans[i] = pq.top().second;
             pq.pop();
         }
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
