@@ -25,6 +25,7 @@ Happy LeetCoding!
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1127-last-stone-weight) |
@@ -80,6 +81,7 @@ Happy LeetCoding!
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0768-partition-labels) |
 ## Matrix
@@ -117,6 +119,7 @@ Happy LeetCoding!
 | [0242-valid-anagram](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
@@ -124,6 +127,7 @@ Happy LeetCoding!
 | ------- |
 | [0011-container-with-most-water](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0768-partition-labels) |
 ## Trie
 |  |
@@ -264,6 +268,7 @@ Happy LeetCoding!
 | [0295-find-median-from-data-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -298,5 +303,6 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
