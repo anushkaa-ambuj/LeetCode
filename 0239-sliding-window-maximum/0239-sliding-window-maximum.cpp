@@ -1,25 +1,22 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        deque<int> dq;  // stores indices
+        // Pair: {value, index}
+        priority_queue<pair<int, int>> maxHeap;
         vector<int> result;
 
         for (int i = 0; i < nums.size(); i++) {
-            // Remove indices that are out of this window
-            if (!dq.empty() && dq.front() <= i - k) {
-                dq.pop_front();
+            // Push current element with its index
+            maxHeap.push({nums[i], i});
+
+            // Remove elements outside the window
+            while (maxHeap.top().second <= i - k) {
+                maxHeap.pop();
             }
 
-            // Remove elements smaller than current from the back
-            while (!dq.empty() && nums[dq.back()] < nums[i]) {
-                dq.pop_back();
-            }
-
-            dq.push_back(i);
-
-            // The front always has the largest element's index
+            // Record answer when first window is ready
             if (i >= k - 1) {
-                result.push_back(nums[dq.front()]);
+                result.push_back(maxHeap.top().first);
             }
         }
 
