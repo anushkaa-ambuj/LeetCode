@@ -18,6 +18,7 @@ Happy LeetCoding!
 | [0051-n-queens](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
@@ -78,6 +79,7 @@ Happy LeetCoding!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0355-design-twitter) |
@@ -261,6 +263,7 @@ Happy LeetCoding!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
