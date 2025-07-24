@@ -5,7 +5,7 @@ public:
         int n = nums2.size();
         int total = m + n;
 
-        // if (total == 0) return 0.0; 
+     
 
         if (m == 0) {
             if (n % 2 == 1) return nums2[n / 2];
