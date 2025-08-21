@@ -25,6 +25,7 @@ Happy LeetCoding!
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@ Happy LeetCoding!
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0355-design-twitter) |
@@ -122,6 +124,7 @@ Happy LeetCoding!
 | [0075-sort-colors](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
