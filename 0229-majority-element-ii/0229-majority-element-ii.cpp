@@ -3,23 +3,18 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         vector<int> ans;
         int n = nums.size();
-        int req_count = n/3;
+        int mini = n/3 + 1;
 
-        for (int i=0;i<n;i++){
-            if (ans.size() == 0 || nums[i] != ans[0]){
-                int count = 1;
-                for (int j=i+1; j<n; j++){
-                    if(nums[j]==nums[i]){
-                        count++;
-                    }
-                }  
+        unordered_map<int,int> freq;
 
-                if(count>req_count){
-                    ans.push_back(nums[i]);
-                }
+        for(int i=0;i<n;i++){
+            freq[nums[i]] += 1;
+
+            if (freq[nums[i]] == mini){
+                ans.push_back(nums[i]);
             }
 
-            if(ans.size()==2) break;
+            if (ans.size() == 2) break;
         }
 
         return ans;
