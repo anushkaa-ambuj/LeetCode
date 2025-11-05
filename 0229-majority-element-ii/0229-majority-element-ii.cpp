@@ -3,7 +3,7 @@ public:
     vector<int> majorityElement(vector<int>& nums) {
         vector<int> ans;
         int n = nums.size();
-        int req_count = floor(n/3);
+        int req_count = n/3;
 
         unordered_map<int,int> freq;
 
