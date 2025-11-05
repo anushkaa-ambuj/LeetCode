@@ -18,6 +18,7 @@ Happy LeetCoding!
 | [0040-combination-sum-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -68,6 +69,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -277,6 +279,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
