@@ -1,22 +1,29 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        vector<int> ans;
         int n = nums.size();
-        int mini = n/3 + 1;
+        int count1 = 0, count2 = 0, cand1 = 0, cand2 = 0;
 
-        unordered_map<int,int> freq;
-
-        for(int i=0;i<n;i++){
-            freq[nums[i]] += 1;
-
-            if (freq[nums[i]] == mini){
-                ans.push_back(nums[i]);
-            }
-
-            if (ans.size() == 2) break;
+        // Step 1: Find potential candidates
+        for (int num : nums) {
+            if (num == cand1) count1++;
+            else if (num == cand2) count2++;
+            else if (count1 == 0) cand1 = num, count1 = 1;
+            else if (count2 == 0) cand2 = num, count2 = 1;
+            else count1--, count2--;
         }
 
-        return ans;
+        // Step 2: Verify the candidates
+        count1 = count2 = 0;
+        for (int num : nums) {
+            if (num == cand1) count1++;
+            else if (num == cand2) count2++;
+        }
+
+        vector<int> res;
+        if (count1 > n / 3) res.push_back(cand1);
+        if (count2 > n / 3) res.push_back(cand2);
+        return res;
     }
 };
+
