@@ -22,6 +22,7 @@ Happy LeetCoding!
 | [0075-sort-colors](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0179-largest-number) |
@@ -73,6 +74,7 @@ Happy LeetCoding!
 | [0053-maximum-subarray](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0647-palindromic-substrings](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Bit Manipulation
 |  |
