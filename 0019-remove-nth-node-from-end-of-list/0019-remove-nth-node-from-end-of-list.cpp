@@ -13,31 +13,30 @@ public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         if (head == nullptr) return nullptr;
 
-        // Step 1: Find length
-        ListNode* temp = head;
-        int len = 0;
-        while (temp != nullptr) {
-            len++;
-            temp = temp->next;
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        // Traverse the fast pointer
+        for (int i=0;i<n;i++){
+            fast = fast->next;
         }
 
-        // Step 2: If deleting the head node
-        if (n == len) {
+        // if target node is head
+        if (fast == nullptr) {
             ListNode* newHead = head->next;
             delete head;
             return newHead;
         }
 
-        // Step 3: Move to node before the one to delete
-        int stop = len - n - 1;
-        temp = head;
-        for (int i = 0; i < stop; i++) {
-            temp = temp->next;
+        // Identify the prev node of the target node
+        while(fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next;
         }
 
-        // Step 4: Delete target node
-        ListNode* delNode = temp->next;
-        temp->next = temp->next->next;
+        // Delete target node
+        ListNode* delNode = slow->next;
+        slow->next = slow->next->next;
         delete delNode;
 
         return head;
