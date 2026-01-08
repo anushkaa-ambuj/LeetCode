@@ -4,10 +4,8 @@ public:
         int set_bits = 0;
 
         while (n){
-            if (n & 1 == 1){
-                set_bits++;
-            }
-            n>>=1;
+            n&=(n-1);
+            set_bits++;
         }
 
         return set_bits;
