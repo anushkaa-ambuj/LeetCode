@@ -14,7 +14,7 @@ public:
 
                 int k=j+1, l=n-1;
                 while (k<l){
-                    long long sum = long long(nums[i]+nums[j]+nums[k]+nums[l]);
+                    long sum = (long)nums[i]+nums[j]+nums[k]+nums[l];
                     if (sum == target){
                         ans.push_back({nums[i], nums[j], nums[k], nums[l]});
                         while (k<l && nums[k]==nums[k+1]) k++;
