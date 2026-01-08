@@ -82,6 +82,7 @@ Happy LeetCoding!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,6 +306,7 @@ Happy LeetCoding!
 | [0004-median-of-two-sorted-arrays](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
