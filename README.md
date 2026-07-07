@@ -183,6 +183,7 @@ Happy LeetCoding!
 | [0009-palindrome-number](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/anushkaa-ambuj/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anushkaa-ambuj/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
