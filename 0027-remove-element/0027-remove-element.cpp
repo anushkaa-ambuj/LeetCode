@@ -1,20 +1,15 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        int n = nums.size();
-        int i=0, j=n-1;
-        int count = 0;
+        int k = 0; // Pointer to place the next non-val element
 
-        while(i<=j){
-            if (nums[i] == val){
-                swap(nums[i], nums[j]);
-                j--;
-            }
-            else{
-                i++;
+        for (int i = 0; i < nums.size(); i++) {
+            if (nums[i] != val) {
+                nums[k] = nums[i];
+                k++;
             }
         }
 
-        return i;
+        return k;
     }
 };
