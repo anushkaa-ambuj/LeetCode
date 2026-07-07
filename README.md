@@ -13,6 +13,7 @@ Happy LeetCoding!
 | [0015-3sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0037-sudoku-solver) |
@@ -122,6 +123,7 @@ Happy LeetCoding!
 | [0016-3sum-closest](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anushkaa-ambuj/LeetCode/tree/master/0125-valid-palindrome) |
