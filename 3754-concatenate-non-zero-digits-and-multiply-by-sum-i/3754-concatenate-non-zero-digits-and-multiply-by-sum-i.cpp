@@ -2,15 +2,15 @@ class Solution {
 public:
     long long sumAndMultiply(int n) {
         long long sum = 0;
-        int x=0, i=-1;
+        int x=0, i=0;
 
         while(n!=0){
             int r = n%10;
 
             if (r != 0){
-                i++;
                 x += (pow(10, i))*r;
-                sum += n%10;
+                sum += r;
+                i++;
             }
             n /= 10;
         }
